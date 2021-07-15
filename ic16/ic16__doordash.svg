@@ -1,10 +1,1 @@
-<svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <g clip-path="url(#ic16__doordash__clip0)">
-    <path d="M15.38 5.606a4.06 4.06 0 00-3.597-2.152H.39a.393.393 0 00-.276.669L2.596 6.62a1.168 1.168 0 00.828.344h8.033a1.036 1.036 0 11.02 2.072H5.94a.393.393 0 00-.277.669l2.484 2.498a1.166 1.166 0 00.828.344h2.504c3.258 0 5.723-3.484 3.902-6.942" />
-  </g>
-  <defs>
-    <clipPath id="ic16__doordash__clip0">
-      <path  d="M0 0h16v16H0z"/>
-    </clipPath>
-  </defs>
-</svg>
+<svg fill="none" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><path d="m0 0h16v16h-16z"/></clipPath><g clip-path="url(#a)"><path d="m15.38 5.606a4.06 4.06 0 0 0 -3.597-2.152h-11.393a.393.393 0 0 0 -.276.669l2.482 2.497a1.168 1.168 0 0 0 .828.344h8.033a1.036 1.036 0 1 1 .02 2.072h-5.537a.393.393 0 0 0 -.277.669l2.484 2.498a1.166 1.166 0 0 0 .828.344h2.504c3.258 0 5.723-3.484 3.902-6.942"/></g></svg>
