@@ -1,1 +1,10 @@
-<svg fill="none" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><path d="m0 0h16v16h-16z"/></clipPath><g clip-path="url(#a)"><path clip-rule="evenodd" d="m.527 9.237a1.75 1.75 0 0 1 0-2.474l6.25-6.251a1.75 1.75 0 0 1 2.475 0l6.251 6.25a1.75 1.75 0 0 1 0 2.475l-6.25 6.251a1.75 1.75 0 0 1 -2.475 0l-6.251-6.25zm1.06-1.414a.25.25 0 0 0 0 .354l6.251 6.25a.25.25 0 0 0 .354 0l6.25-6.25a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0 -.354 0l-6.25 6.25z" fill-rule="evenodd"/></g></svg>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#ic16__diamond__clip0)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M.527 9.237a1.75 1.75 0 010-2.474L6.777.512a1.75 1.75 0 012.475 0l6.251 6.25a1.75 1.75 0 010 2.475l-6.25 6.251a1.75 1.75 0 01-2.475 0L.527 9.238v-.001zm1.06-1.414a.25.25 0 000 .354l6.251 6.25a.25.25 0 00.354 0l6.25-6.25a.25.25 0 000-.354l-6.25-6.25a.25.25 0 00-.354 0l-6.25 6.25h-.001z" />
+  </g>
+  <defs>
+    <clipPath id="ic16__diamond__clip0">
+      <path fill="#fff" d="M0 0h16v16H0z"/>
+    </clipPath>
+  </defs>
+</svg>
