@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <g clip-path="url(#a)">
+  <g clip-path="url(#ic-16-refresh__a)">
     <path d="M14.058 9.854a6.333 6.333 0 1 1-.188-4.236.502.502 0 0 0 .023.049h-2.726a.5.5 0 0 0 0 1h3.666a.5.5 0 0 0 .5-.5V2.333a.5.5 0 1 0-1 0v1.968a7.333 7.333 0 1 0 .68 5.845.5.5 0 1 0-.955-.292Z"/>
   </g>
   <defs>
-    <clipPath id="a">
+    <clipPath id="ic-16-refresh__a">
       <path d="M16 0H0v16h16z"/>
     </clipPath>
   </defs>

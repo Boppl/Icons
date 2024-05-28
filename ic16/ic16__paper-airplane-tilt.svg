@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <g clip-path="url(#a)">
+  <g clip-path="url(#ic-16-paper-airplane-tilt__a)">
     <path fill-rule="evenodd" d="M.668 6.287a.916.916 0 0 1 .608-.805L14.735.71a.764.764 0 0 1 .976.976L10.94 15.145a.916.916 0 0 1-1.606.23l-3.472-4.816-4.815-3.471a.916.916 0 0 1-.379-.8Zm6.207 3.967 3.176 4.406 4.551-12.84-12.84 4.55 4.405 3.177 3.47-3.47a.5.5 0 1 1 .708.707l-3.47 3.47Z" clip-rule="evenodd"/>
   </g>
   <defs>
-    <clipPath id="a">
+    <clipPath id="ic-16-paper-airplane-tilt__a">
       <path d="M0 0h16v16H0z"/>
     </clipPath>
   </defs>
