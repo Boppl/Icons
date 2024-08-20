@@ -1,0 +1,8 @@
+{
+  "name": "bopple-icons",
+  "version": "1.0.0",
+  "description": "This is a collection of icons used at Bopple.",
+  "main": "src",
+  "author": "Renan Sigolo",
+  "license": "ISC"
+}
