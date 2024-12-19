@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="ic-16-rotate-left__ic16__rotate_left" clip-path="url(#ic-16-rotate-left__clip0_5158_1075)">
+    <path id="ic-16-rotate-left__Vector" fill="#1A1A1A" d="M1.643 3.143.427 1.927A.25.25 0 0 0 0 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 0 0 .177-.427L2.715 4.215A6.5 6.5 0 1 1 8 14.5c-.5 0-.724.303-.762.708-.037.404.262.792.762.792A8 8 0 1 0 1.643 3.143Z"/>
+  </g>
+  <defs>
+    <clipPath id="ic-16-rotate-left__clip0_5158_1075">
+      <path fill="#fff" d="M0 0h16v16H0z"/>
+    </clipPath>
+  </defs>
+</svg>
