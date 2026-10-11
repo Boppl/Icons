@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.3.4 - 2026-10-12
+
+- fix: paths
+
 ## v2.3.3 - 2026-10-06
 
 - feat: 16px iphone
