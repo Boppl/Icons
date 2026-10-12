@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.4.0 - 2026-10-12
+
+- feat: add missing icons from orders web app
+
 ## v2.3.4 - 2026-10-12
 
 - fix: paths
