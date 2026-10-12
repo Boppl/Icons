@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.4.1 - 2026-10-12
+
+- fix: map icon
+
 ## v2.4.0 - 2026-10-12
 
 - feat: add missing icons from orders web app
