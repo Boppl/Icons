@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.4.2 - 2026-10-14
+
+- fix: chilli icons
+
 ## v2.4.1 - 2026-10-12
 
 - fix: map icon
